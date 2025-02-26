@@ -3,11 +3,10 @@
     padding: 0;
     box-sizing: border-box;
 }
-
-
 body {
     font-family: 'Lato', sans-serif;
 }
+
 .parallax{
     height: 100vh;
     background-attachment: fixed;
@@ -15,7 +14,7 @@ body {
     background-position: center;
     position: relative;
     background-color: black;
-    opacity:0.8;
+    opacity:0.7;
     
 }
 
