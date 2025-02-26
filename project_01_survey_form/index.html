@@ -1,0 +1,104 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style.css">
+    <title>Survey Form</title>
+</head>
+<body>
+
+    <div class="container">
+
+        
+            <header>
+                <h1>Net<span>flix</span></h1>
+                <h3>Thank you for signing up at Netflix.Tell us more about yourself</h3>
+            </header>
+            
+            <section>
+                <form action="result.html">
+                    <div class="box">
+                        <label for="name">Name</label>
+                        <input type="text" name="name" id="name" placeholder="Enter your name">
+                    </div>
+                    
+                    <div class="box">
+                        <label for="age">Age</label>
+                        <input type="number" name="age" id="age" placeholder="Age">
+                    </div>
+    
+                    <div class="box">
+                        <label for="email">Email</label>
+                        <input type="email" name="email" id="email" placeholder="Enter Your Email">
+                    </div>
+    
+                    <div class="box">
+                        <label for="content_type">Content Type</label>
+                        <select name="content_type" id="content_type">
+                            <option value="Series">Series</option>
+                            <option value="Movies">Movies</option>
+                            <option value="TV-Shows">TV-Shows</option>
+                        </select>
+                    </div>
+                    <div class="box">
+                        <label for="">Movie Type</label>
+    
+                        <div class="movie_types">
+
+                            <div>
+                                <input type="checkbox" name="comedy" id="comedy" value="comedy">
+                                <label for="comedy">Comedy</label>
+                            </div>
+                            <div>
+                                <input type="checkbox" name="action" id="action" value="action">
+                                <label for="action">Action</label>
+                            </div>
+                            
+                            <div>
+                                <input type="checkbox" name="romance" id="romance" value="romance">
+                                <label for="romance">Romance</label>
+                            </div>
+                            
+                        </div>
+                    </div>
+    
+                    <div class="box">
+                        <label for="">Gender</label>
+    
+                        <div class="gender">
+                            <div>
+                                <input type="radio" name="gender" id="male" value="male">
+                                <label for="male">Male</label>
+                            </div>
+                            <div>
+                                <input type="radio" name="gender" id="female" value="female">
+                                <label for="female">Female</label>
+                            </div>
+                            <div>
+                                <input type="radio" name="gender" id="other" value="other">
+                                <label for="other">Other</label>
+                            </div>
+                            
+                        </div>
+                    </div>
+
+                    <div class="box">
+                        <label for="feedback">Feed Back</label>
+                        <textarea name="feedback" id="feedback" placeholder="Any Comment"></textarea>
+                    </div>
+                    
+                    <div class="btn">
+                        <input type="submit" id="send" value="send">
+                    </div>
+                    
+                    
+                </form>
+    
+            </section>
+        
+    </div>
+    
+
+</body>
+</html>
