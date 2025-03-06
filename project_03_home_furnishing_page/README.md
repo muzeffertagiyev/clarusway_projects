@@ -1,0 +1,40 @@
+# Home Furnishing Website
+
+This project is a modern website for a home furnishing store, designed to showcase products and services in an engaging and user-friendly way.
+
+## Project Overview
+This project showcases:
+- Interactive navigation with icons, categories, and a search bar.
+- Visually appealing content sections for product categories and services.
+- Responsive design for seamless browsing across devices.
+
+The website provides customers with an intuitive way to explore and connect with home furnishing solutions.
+
+## Features
+- **Icon Bar & Navigation:** Provides quick access to categories, search functionality, and contact support.
+- **Content Sections:**
+  - **Header:** Displays promotional banners.
+  - **Browse By Category:** Showcases main categories like Living Room, Kitchen, and Accessories.
+  - **Browse By Products:** Highlights a selection of products.
+- **Contact Form:** Enables users to easily get in touch with experts for home design advice.
+- **Responsive Design:** Ensures optimal viewing on desktops, tablets, and mobile devices.
+
+## File Structure
+├── index.html # Main HTML file ├── style.css # CSS file for styling ├── assets/images/ # Folder containing product, logo, and icon images
+
+
+## Preview
+Here’s a preview of the project in action:
+
+
+
+## Technologies Used
+- **HTML5**: For structuring the content.
+- **CSS3**: For styling and responsive layout.
+
+## Learning Highlights
+Through this project, I learned:
+- Organizing content using semantic HTML.
+- Implementing responsive design with CSS flexbox.
+- Crafting visually consistent layouts with shadows, gradients, and typography.
+- Building user-friendly forms for seamless interaction.
