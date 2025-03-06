@@ -1,12 +1,12 @@
 # Home Furnishing Website
 
-This project is a modern website for a home furnishing store, designed to showcase products and services in an engaging and user-friendly way.
+This project is a modern website for a home furnishing store, designed to showcase products and services in an engaging and user-friendly way.Please be informed that it is a static webpage.
 
 ## Project Overview
 This project showcases:
 - Interactive navigation with icons, categories, and a search bar.
 - Visually appealing content sections for product categories and services.
-- Responsive design for seamless browsing across devices.
+
 
 The website provides customers with an intuitive way to explore and connect with home furnishing solutions.
 
@@ -17,7 +17,7 @@ The website provides customers with an intuitive way to explore and connect with
   - **Browse By Category:** Showcases main categories like Living Room, Kitchen, and Accessories.
   - **Browse By Products:** Highlights a selection of products.
 - **Contact Form:** Enables users to easily get in touch with experts for home design advice.
-- **Responsive Design:** Ensures optimal viewing on desktops, tablets, and mobile devices.
+- **Responsive Design:** IT IS NOT FULLY RESPONSIVE FOR OTHER MEANS OF DEVICES 
 
 ## File Structure
 ```
