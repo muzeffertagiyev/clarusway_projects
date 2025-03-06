@@ -20,12 +20,17 @@ The website provides customers with an intuitive way to explore and connect with
 - **Responsive Design:** Ensures optimal viewing on desktops, tablets, and mobile devices.
 
 ## File Structure
-├── index.html # Main HTML file ├── style.css # CSS file for styling ├── assets/images/ # Folder containing product, logo, and icon images
+```
+├── index.html          # Main HTML file
+├── style.css           # CSS file for styling
+├── assets/images/      # Folder containing product, logo, and icon images
+```
 
 
 ## Preview
 Here’s a preview of the project in action:
 
+![ScreenRecording2025-03-06at19 57 14-ezgif com-video-to-gif-converter](https://github.com/user-attachments/assets/39f54e14-cade-4731-9bdb-620af192b244)
 
 
 ## Technologies Used
