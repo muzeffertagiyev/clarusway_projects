@@ -6,14 +6,14 @@ This project demonstrates the use of parallax scrolling effects combined with co
 This project showcases:
 - Implementation of parallax scrolling for enhanced visual aesthetics.
 - Semantic and organized HTML structure.
-- Use of CSS for responsive design and styling.
+- Use of CSS for styling.
 
 The website presents information about various programs offered by **Clarusway**, using parallax sections to highlight key content.
 
 ## Features
 - **Parallax Scrolling:** Background images stay fixed while scrolling, creating a dynamic effect.
 - **Content Sections:** Informative sections about programs like Full Stack Development, AWS & DevOps, and Data Analytics.
-- **Responsive Design:** The website is accessible on both desktop and mobile devices.
+- **Responsive Design:** The website is Not RESPONSIVE
 
 ## File Structure
 ```
