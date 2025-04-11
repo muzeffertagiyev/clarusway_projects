@@ -6,6 +6,7 @@ const cleanAllBtn = document.getElementById("clean-all-btn")
 
 
 // ! Save Form
+const saveForm = document.getElementById("expense-form")
 const dateField = document.getElementById('date-input')
 const expensePlaceField = document.getElementById("expense-place")
 const expenseAmountField = document.getElementById("expense-amount")
@@ -16,6 +17,7 @@ dateField.setAttribute('value', today);
 
 
 // ! Income Form
+const incomeForm = document.getElementById("income-form")
 const incomeInputField = document.getElementById("income-input")
 
 // ! Expenses Table
@@ -107,7 +109,10 @@ function clearAllData(){
 // ? Adding new Expense data to Local Storage
 saveBtn.addEventListener('click',(e)=>{
     
-    e.preventDefault()
+    if(saveForm.checkValidity()){
+        e.preventDefault()
+    }
+    
 
     if(dateField.value && expensePlaceField.value && expenseAmountField.value){
         const expense = {
@@ -140,7 +145,11 @@ expensesTable.querySelector("tbody").addEventListener("click", (e) => {
 
 // ? Adding income event
 addBtn.addEventListener("click",(e)=>{
-    e.preventDefault()
+
+    if(incomeForm.checkValidity()){
+        e.preventDefault()
+    }
+    
 
     if(incomeInputField.value){
         addIncomeToLocalStorage(incomeInputField.value)
