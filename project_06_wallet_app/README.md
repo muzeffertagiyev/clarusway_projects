@@ -56,6 +56,9 @@ This project emphasizes usability, with a clean layout and responsive design.
 
 ## Preview
 
+![wallet app](https://github.com/user-attachments/assets/09537021-3e7f-43fa-941e-80d8d8ac47b6)
+
+
 The app features a simple yet functional layout:
 - **Header**: Displays the app title.
 - **Forms**: For adding income and expenses.
