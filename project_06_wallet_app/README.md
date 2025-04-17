@@ -56,7 +56,7 @@ This project emphasizes usability, with a clean layout and responsive design.
 
 ## Preview
 
-![wallet app](https://github.com/user-attachments/assets/09537021-3e7f-43fa-941e-80d8d8ac47b6)
+![ScreenRecording2025-04-17at11 04 12-ezgif com-video-to-gif-converter](https://github.com/user-attachments/assets/5bb5a1bb-1598-4957-b701-a0efcfba0e66)
 
 
 The app features a simple yet functional layout:
